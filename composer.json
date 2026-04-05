@@ -1,5 +1,5 @@
 {
-    "name": "agashe/sigmaphp-container",
+    "name": "sigmaphp/sigmaphp-container",
     "description": "PHP Dependency Injection Container",
 	"keywords": [
         "SigmaPHP", "framework", "container", "dependency", "injection"],
