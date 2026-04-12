@@ -23,7 +23,7 @@ And last but not least , the service providers , a powerful mechanism , that can
 ## Installation
 
 ``` 
-composer require agashe/sigmaphp-container
+composer require sigmaphp/sigmaphp-container
 ```
 
 ## Documentation
